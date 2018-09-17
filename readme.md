@@ -16,7 +16,7 @@ Just copy the desired information's like copying a file and install it on your s
 
 ## Tips
 
-- [artisan/readme.md](Artisan)
+- [Artisan](artisan/readme.md)
 
 ## License
 
