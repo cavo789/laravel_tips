@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # Laravel Tips & Tricks
+
+![Banner](./banner.svg)
 
 > Collection of Laravel tips and tricks, including some files like artisan command
 
