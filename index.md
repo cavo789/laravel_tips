@@ -6,3 +6,4 @@
 
 You'll find here some tips & tricks, artisan commands, batch files, ... to make easier to work with Laravel.
 
+<!-- concat-md::toc -->
