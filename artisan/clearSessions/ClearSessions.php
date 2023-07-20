@@ -1,15 +1,5 @@
 <?php
 
-/**
- * Author : Avonture Christophe
- *
- * Artisan command for easily create a new event's listener
- *
- * To use on the command line like:
- *
- * 		php artisan marknotes:listener Bullets HTMLRender
- */
-
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
