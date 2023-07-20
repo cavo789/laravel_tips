@@ -1,6 +1,6 @@
 # Log in using GitHub, Facebook, ... i.e. with oAuth
 
-> [:en: From Zero to "Log In With GitHub" in Ten Minutes](https://laracasts.com/series/jeffreys-larabits/episodes/25)
+> [🇬🇧 From Zero to "Log In With GitHub" in Ten Minutes](https://laracasts.com/series/jeffreys-larabits/episodes/25)
 
 Using [Laravel Breeze](https://laravel.com/docs/10.x/starter-kits#laravel-breeze) and [Laravel Socialite](https://laravel.com/docs/10.x/socialite) it can be quite easy to offer a `Register with` / `Log in with` feature.
 
@@ -10,4 +10,4 @@ What's is nice then, it's the `createOrUpdate` method based on the GitHub id i.e
 
 Other links:
 
-* [:fr: - Laravel Socialite : Authentification OAuth avec Google, Facebook et Github (Social login)](https://www.akilischool.com/cours/laravel-socialite-connexion-inscription-avec-google-facebook-github-linkedin-social-login)
+* [🇫🇷 - Laravel Socialite : Authentification OAuth avec Google, Facebook et Github (Social login)](https://www.akilischool.com/cours/laravel-socialite-connexion-inscription-avec-google-facebook-github-linkedin-social-login)
